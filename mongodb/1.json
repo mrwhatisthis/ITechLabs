@@ -1,0 +1,36 @@
+[{
+  "disciple": "Computer Networks",
+  "date": "2022-05-05",
+  "group": ["KI-12-1","KI-12-2","KI-12-3", "KI-12-4"],
+  "auditorium": "104i",
+  "time": 2, 
+  "type": "Lecture",
+  "teacher": "Kovalenko A.A."
+},
+{
+  "disciple": "Creation of Images and Sound",
+  "date": "2022-05-04",
+  "group": ["KI-12-1","KI-12-2","KI-12-3", "KI-12-5"],
+  "auditorium": "104i",
+  "time": 2, 
+  "type": "Lecture",
+  "teacher": "Kovalenko A.A."
+},
+{
+  "disciple": "Internet Technologies",
+  "date": "2022-05-05",
+  "group": "KI-12-1",
+  "auditorium": "229",
+  "time": 3, 
+  "type": "Laboratory",
+  "teacher": ["Kovalenko A.A.","Yankovskiy O.A."]
+},
+{
+  "disciple": "Internet Technologies",
+  "date": "2022-05-05",
+  "group": "KI-12-2",
+  "auditorium": "106i",
+  "time": 1, 
+  "type": "Practice",
+  "teacher": "Ivaschenko G.S."
+}]
